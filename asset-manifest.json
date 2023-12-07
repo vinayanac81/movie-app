@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movie-app/static/css/main.0dd57b52.css",
+    "main.js": "/movie-app/static/js/main.d6226424.js",
+    "static/media/no-poster.png": "/movie-app/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
+    "static/media/avatar.png": "/movie-app/static/media/avatar.0affc1eeb2b145c80bd1.png",
+    "static/media/no-results.png": "/movie-app/static/media/no-results.2d2c6ee352de3daf8a56.png",
+    "static/media/movix-logo.svg": "/movie-app/static/media/movix-logo.9d67d13c155c38743f313bd4784d0c7b.svg",
+    "index.html": "/movie-app/index.html",
+    "main.0dd57b52.css.map": "/movie-app/static/css/main.0dd57b52.css.map",
+    "main.d6226424.js.map": "/movie-app/static/js/main.d6226424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd57b52.css",
+    "static/js/main.d6226424.js"
+  ]
+}
